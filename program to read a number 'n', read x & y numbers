@@ -1,8 +1,10 @@
 import java.io.*;
 import java.util.*;
 
-public class ass6 {
-    public static void main(String[] args){
+public class Assignment1 
+{
+    public static void main(String[] args)
+    {
         Scanner sc = new Scanner(System.in);
         
         int n, x, y, s = 0, count = 1, r = 0;
